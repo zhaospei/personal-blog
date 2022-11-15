@@ -1,3 +1,3 @@
 # Personal Blog
 
-A simple blog made by VueJS
+A simple blog made by DenoJS
