@@ -4,11 +4,8 @@ import blog, { ga, redirects, h } from "blog";
 
 blog({
   title: "Zhao's Blog",
-  description: "This is my note blog.",
-  // header: <header>Your custom header</header>,
-  // section: <section>Your custom section</section>,
-  // footer: <footer>Your custom footer</footer>,
-  avatar: "https://deno-avatar.deno.dev/avatar/blog.svg",
+  description: "Một cái blog là một cái blog?",
+  avatar: "img/logo.png",
   avatarClass: "rounded-full",
   author: "Zhao",
 

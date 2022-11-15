@@ -14,4 +14,5 @@ Có cần phải nói sơ qua về mục đích của việc tạo blog này kh�
 Hmm, chẳng biết viết gì nhiều. Thôi tạm gác lại đây! Mong rằng blog sẽ giúp bạn tìm thấy những điều đáng tìm.
 
 See yaa,
+
 Zhao! 
